@@ -5,7 +5,7 @@ from PIL import Image
 from io import BytesIO
 
 st.set_page_config(layout="wide")  # Use full width
-st.title("📷 Apply Filters to Your Image")
+st.title("📷 Apply Filters to Your Image and see how computer vision works on images")
 
 uploaded_file = st.file_uploader("Choose an image file", type=["jpg", "jpeg", "png"])
 
