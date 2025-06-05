@@ -8,7 +8,7 @@ A simple yet powerful project that applies various **computer vision filters** t
 * **Language:** Python
 * **Libraries:** OpenCV, NumPy
 * **Application Type:** Computer Vision / Image Processing
-* **Application link:**https://fun-with-computer-vision-jkbuxvqpbre8pqt9pbxp9f.streamlit.app/
+* **Application link:** https://fun-with-computer-vision-jkbuxvqpbre8pqt9pbxp9f.streamlit.app/
 
 ### Features
 
